@@ -12,7 +12,7 @@ CXXFLAGS += -g #                    # pour debugger
 # LDFLAGS  += -pg #                 # pour profiler
 # CXXFLAGS += -O2 #                 # pour optimiser la vitesse
 
-LIB=LIB/
+LIB=
 SRC=SRC/
 BIN=
 
